@@ -1,24 +1,13 @@
 ## Welcome to My Home Page
-
-
+-
 ## How to Contact me
-
-18001515683
-
-zhangzl98@163.com
-
+-1800151568
+-zhangzl98@163.com
 ## About Myself
-
-Bachelor degree from East China University of Science and Technology
-
-Majored in Applied Mathematics and Tend to Programming 
-
-Be Familiar with Python,Matlab,Java,Mysql
-
-
+-Bachelor degree from East China University of Science and Technology
+-Majored in Applied Mathematics and Tend to Programming 
+-Be Familiar with Python,Matlab,Java,Mysql
 ## What I've done
-
-
 - Special Clothing Design under High Temperature
 - Deeplearning
 
